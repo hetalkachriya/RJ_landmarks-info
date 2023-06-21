@@ -1,0 +1,7 @@
+.PageNotFound {
+  height: calc(100vh - 202px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
